@@ -2,7 +2,11 @@
 
 Follow the Twelve-Factor App for more details on [logging](https://12factor.net/logs).
 
+## Things to log
 
+- deployment counts
+- success/failure calls to API
+- log service status (similar to health check)
 
 ## Lessons learn from work
 
