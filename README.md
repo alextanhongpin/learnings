@@ -12,3 +12,15 @@ What defines a non-agile team?
 + Hire a lot of QAs to carry out manual testing
 + No requirements, and non-validated requirements for each Sprint
 + Points out mistake in every Sprint Retrospective, but do nothing about it
+
+## Doing just enough
+
+Most of the time, teams will work on a task. There are two scenarios - they will either overdo it or fail to deliver. Knowing the boundary helps to reduce the time taken to complete the task.
+
+## Knowing when to stop
+
+Is the task the team is working on aligned with the goals we want to achieve. If not, drop the task, document the learnings and move on.
+
+## Words, no action
+
+Realizing a mistake is one thing, taking actions is another.
